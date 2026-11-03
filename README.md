@@ -11,5 +11,9 @@ It's not the most revolutionary project but I had fun making it, but it got me b
 
 HOW TO RUN
 
-Go inside the 'dist' folder, inside should be the .exe, run that.
-If that for some reason doesn't work in VS code open the project folder and run the 'main.py' file
+Run the .exe and you should be good!
+
+MORE INFO
+
+This is my week one project for Terra Hack-Club, the core idea for the game was taken from my friend's project idea, but
+I took it and made it my own, along with building the UI system from the ground up! It's not ALOT but I hope you enjoy what's here!
